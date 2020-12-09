@@ -1,2 +1,2 @@
-# SimulateLang_KOR
-한반도 언어 변천사 시뮬레이션
+# GA_BAB
+유전 알고리즘 급식식단:
